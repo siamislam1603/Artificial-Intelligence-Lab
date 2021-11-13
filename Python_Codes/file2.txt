@@ -1,0 +1,3 @@
+hasib	cse	2.5
+rifat	eee	3.8
+ivan	mpe	4.0
